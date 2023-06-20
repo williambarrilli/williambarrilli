@@ -1,5 +1,7 @@
 ### Olá Pessoal 👋
 
+## I'm William Barrilli <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=50px>
+
 Este é meu repositório pessoal e estou motivado a movimentar ele
 
 - 🔭 Trabalho atualmente na Meta Tecnologia
@@ -23,3 +25,6 @@ Este é meu repositório pessoal e estou motivado a movimentar ele
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williambarrilli&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williambarrilli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=williambarrilli&label=Profile%20Views&color=ce9927&style=flat" alt="William Barrilli" /> </p>
+
+
