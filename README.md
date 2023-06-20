@@ -1,6 +1,6 @@
 ### Olá Pessoal 👋
 
-## I'm William Barrilli <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=50px>
+## Eu sou Will <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=50px>
 
 Este é meu repositório pessoal e estou motivado a movimentar ele
 
