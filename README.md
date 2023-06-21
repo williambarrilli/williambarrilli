@@ -22,7 +22,7 @@ Este é meu repositório pessoal e estou motivado a movimentar ele
     <a href="https://github.com/williambarrilli">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williambarrilli&layout=compact&langs_count=7&theme=dracula"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williambarrilli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=williambarrilli)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@williambarrilli)](https://github.com/anuraghazra/github-readme-stats)
     </div>    
  </div>
 
