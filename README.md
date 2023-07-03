@@ -24,8 +24,8 @@ Este é meu repositório pessoal e estou motivado a movimentar ele
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williambarrilli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </div>    
  </div>
+<!-- <a href="https://wakatime.com/@d77aa611-9de9-499e-822b-faecccab84ec"> -->
+<!--   <img src="https://wakatime.com/badge/user/d77aa611-9de9-499e-822b-faecccab84ec.svg&style=flat" alt="Total time coded since Jun 21 2023" /> -->
 <!--       <img height="30%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@williambarrilli"/> -->
-<a href="https://wakatime.com/@d77aa611-9de9-499e-822b-faecccab84ec">
-  <img height="30%"  src="https://wakatime.com/badge/user/d77aa611-9de9-499e-822b-faecccab84ec.svg" alt="Total time coded since Jun 21 2023" />
-</a>
+<!-- </a> -->
 
