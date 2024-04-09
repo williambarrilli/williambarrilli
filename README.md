@@ -2,7 +2,7 @@
 
 ## Eu sou Will <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=50px>
 
-Este é meu repositório pessoal e estou motivado a movimentar ele
+Este é meu repositório pessoal
 
 - 🔭 Trabalho atualmente na Meta Tecnologia
 - 🌱 Estou estudando e experiênciando Next JS com TS
