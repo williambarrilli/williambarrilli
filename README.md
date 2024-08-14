@@ -13,7 +13,6 @@ Este é meu repositório pessoal
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
     </div>
-    <p>Data incio do contador: 23/06/23</p>
       <img src="https://wakatime.com/badge/user/d77aa611-9de9-499e-822b-faecccab84ec.svg" alt="William Barrilli" />
     <img src="https://komarev.com/ghpvc/?username=williambarrilli&label=Profile%20Views&color=ce9927&style=flat" alt="William Barrilli" />
     <div>
